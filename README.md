@@ -1,5 +1,7 @@
 # Guess my number
 
+![guess_my_number](https://github.com/Ismail020/guess-my-number/assets/91133205/09c7d2e6-cfc6-4db0-a09c-8ccb441f41ea)
+
 ## Setup for local development
 
 ### First time setup
