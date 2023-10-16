@@ -4,9 +4,7 @@ A simple game where you guess a number between 1 and 20. You have 20 chances to 
 
 # Preview
 
-![alt text](https://github.com/Ismail020/guess-my-number.git/blob/master/img/guess_my_number.jpg?raw=true)
-
-## Setup for local development
+![guess_my_number](https://github.com/Ismail020/guess-my-number/assets/91133205/09c7d2e6-cfc6-4db0-a09c-8ccb441f41ea)
 
 # Setup for local development
 
