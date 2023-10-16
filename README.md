@@ -1,13 +1,19 @@
 # Guess my number
 
+A simple game where you guess a number between 1 and 20. You have 20 chances to guess the number. If you guess the number correctly, you win. If you don't guess the number correctly, you lose.
+
+# Preview
+
+![alt text](https://github.com/Ismail020/guess-my-number.git/blob/master/img/guess_my_number.jpg?raw=true)
+
 ## Setup for local development
 
-### First time setup
+# Setup for local development
 
-Clone the repository to your device
+1. Clone the repo
+2. Open `index.html` in your browser
+3. Enjoy!
 
-```bash
-git clone https://github.com/Ismail020/guess-my-number.git
-```
+# Acknowledgement
 
-Install a extension named [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) and run the project with it. Or you can just open the index.html file in your browser.
+Udemy The Complete JavaScript Course 2023: From Zero to Expert! by Jonas Schmedtmann.
